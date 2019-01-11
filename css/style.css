@@ -1,0 +1,13 @@
+.wikiLogo{
+  width: 140px;
+  height: 160px;
+  display: block;
+  margin-left: -100%;
+  margin-right: auto;
+  float: left;
+
+.siderbar-links {
+  text-align: left;
+  margin: 0px 0px 0px 0px;
+  direction: ltr;
+}
